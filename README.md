@@ -1,2 +1,3 @@
 # basicdashboarding
-Tableau dashboard
+Tableau dashboard <br>
+This dashboard is used to visualize the dataset containing natural disasters. This dashboard showcases a comprehensive view of the Natural Disaster Dataset visually. A user can monitor data such as disaster trends, earthquake trends, temperature of heat and cold waves and analyze them. This visual display answers questions such as: “What is the monthly distribution of disasters over the decades?”, “What is the number of natural disaster occurrences over the years 1900-2020, worldwide?” etc. It also has interactive features such as “Country Select”, “Disaster Type” etc.  which allow filtration of data according to user needs. <br>
