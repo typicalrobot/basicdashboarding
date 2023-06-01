@@ -1,3 +1,4 @@
 # basicdashboarding
 
 This dashboard is used to visualize the dataset containing natural disasters. This dashboard showcases a comprehensive view of the Natural Disaster Dataset visually. A user can monitor data such as disaster trends, earthquake trends, temperature of heat and cold waves and analyze them. This visual display answers questions such as: “What is the monthly distribution of disasters over the decades?”, “What is the number of natural disaster occurrences over the years 1900-2020, worldwide?” etc. It also has interactive features such as “Country Select”, “Disaster Type” etc.  which allow filtration of data according to user needs. <br>
+Access the mural board here to get some insights on how the project came to fruitation: https://app.mural.co/t/dvprojectmural3075/m/dvprojectmural3075/1668027154024/fc8c6ae3008bbb2a6627d21971805a5e3e19a7e0?sender=ue9203fe72cbe94e6c4875907
